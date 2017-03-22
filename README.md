@@ -25,4 +25,4 @@
 ## If you have your own ideas please contribute. In case of any concerns, do let me know.  
 ### FYI - You can download your Facebook and LinkedIn data as well..analysis for that data coming soon!!
 
-##### I would like thank "Walker Harrison", some of the code snippets are taken from his repo. 
+##### I would like to thank "Walker Harrison", some of the code snippets are taken from his repo. 
