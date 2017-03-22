@@ -9,7 +9,7 @@
   
   2) Save the downloaded files in a folder named "Data"
   The path of the data files folder will look like -
-  ![google_data](google_data.JPG)
+  ![google_data1](google_data.JPG)
   
   3) "my_google_searches.ipynb" notebook should be in the same folder as the "Data" folder
 
