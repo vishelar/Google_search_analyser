@@ -1,5 +1,7 @@
 # Google_Search_Analyser
 
+## See what story your Google Search History tells about you!!
+
 ## Run the python notebook (using Jupyter Notebook(http://jupyter.org/install.html)) to see your own google search patterns by months, days and years. Type in your keyword to see what and when you searched for that keyword.
 
 ## Requirements:
@@ -21,5 +23,6 @@
 * Find the top 40 relevant keywords (excluding the in, on, the, symbols, etc) 
 
 ## If you have your own ideas please contribute. In case of any concerns, do let me know.  
+### FYI - You can download your Facebook and LinkedIn data as well..analysis for that data coming soon!!
 
 ##### I would like thank "Walker Harrison", some of the code snippets are taken from his repo. 
