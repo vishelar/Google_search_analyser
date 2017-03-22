@@ -16,6 +16,7 @@
 
 * Create a word cloud of the top searched words
 * Visualize the trend in the keyword search (Time-series)
+* Find the most frequent word by month
 * Use the gmail data to find the top 10 senders and receivers
 * Find the top 40 relevant keywords (excluding the in, on, the, symbols, etc) 
 
